@@ -1,0 +1,2 @@
+# SQL10
+SQL10 ODEVİ
